@@ -4,3 +4,7 @@ Agregando información al proyecto.
 Características añadidas al proyecto:
 - Soporte para commits múltiples
 - Ejemplo de staging  con Git
+## Características
+Aprendiendo Git paso a paso
+## Características
+Aprendiendo Git paso a paso

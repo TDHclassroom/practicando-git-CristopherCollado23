@@ -1,2 +1,3 @@
 # Changelog
-Se añadieron nuevas características al proyecto en el Ejercicio 3
+## v1.0.0
+Proyecto inicial
