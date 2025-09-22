@@ -9,3 +9,11 @@ Aprendiendo Git paso a paso
 ## Características
 Aprendiendo Git paso a paso
 Línea añadida desde la rama1 
+
+
+
+
+
+
+
+## Editado desde GitHub
