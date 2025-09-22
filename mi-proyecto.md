@@ -1,4 +1,4 @@
-# Información del proyecto
+## Información del proyecto
 Este es mi primer proyecto usando Git
 Agregando información al proyecto.
 Características añadidas al proyecto:
